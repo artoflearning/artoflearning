@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artoflearning
-- 👀 I’m interested in computer vision, NLP, RL, Uplift/Incremental Casual Inference, and explainability.
+- 👀 I’m interested in computer vision, NLP, RL, Uplift/Incremental Causal Inference, and ML/AI explainability.
 - 🌱 I’m currently learning RL in federated IOT.
 - 📫 How to reach me ...
 
