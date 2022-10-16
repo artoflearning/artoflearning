@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @artoflearning
-- 👀 I’m interested in NLP topic modelling and full end-to-end production solutions.
-- 🌱 I’m currently learning deep image classification AI ML models.
-- 💞️ I’m looking to collaborate on ensemble NLP ML models.
+- 👀 I’m interested in computer vision, NLP, RL, Uplift/Incremental Casual Inference, and explainability.
+- 🌱 I’m currently learning RL in federated IOT.
 - 📫 How to reach me ...
 
 <!---
